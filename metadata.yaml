@@ -1,11 +1,16 @@
 _repo: The-Shame-of-the-Cities_54710
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54710-h/images/cover.jpg
 creator:
   author:
     agent_name: Steffens, Lincoln
     gutenberg_agent_id: '48007'
     url: http://www.gutenberg.org/2009/agents/48007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54710#The-Shame-of-the-Cities
 gutenberg_issued: '2017-05-12'
 gutenberg_type: Text
 identifiers:
